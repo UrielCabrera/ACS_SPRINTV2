@@ -1,0 +1,12 @@
+
+--------------------------------
+Se modificaron la mayoria de las clases y formularios.
+Se modifico el nombre de los formularios, algunos de sus metodos.
+Se modifico el diseño del formulario3 
+En este archivo solo se integro la parte de Uriel
+por lo que ya no es necesario hacerle mas modificaciones a menos que lo requiera
+Solo faltaria las modificaciones de America.
+
+Es necesario descargar el proyecto completo por que tambien se añadieron archivos de extension ".txt"
+a la ruta de resource del proyecto.
+Trabajar con este repositorio.
